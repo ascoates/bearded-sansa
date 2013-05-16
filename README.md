@@ -1,4 +1,4 @@
-bearded-sansa
+Bearded-Sansa
 =============
 
 General Repo
